@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: __local_aars__:/home/estagiodev/AndroidStudioProjects/InteractiveBookApp-thi/app/libs/httpclient-4.4.1.1.jar:unspecified@jar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/httpclient-4.4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../InteractiveBookApp-thi/app/libs/httpclient-4.4.1.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
