@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/nav_item_one"
+            android:icon="@drawable/config"
+            android:title="@string/nav_menu_config" />
+
+        <item android:id="@+id/nav_item_two"
+            android:icon="@drawable/exit"
+            android:title="@string/nav_menu_logout" />
+    </group>
+</menu>

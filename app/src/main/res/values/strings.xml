@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">InteractiveBookApp</string>
+    <string name="email" translatable="false">E-mail</string>
+    <string name="hint_email" translatable="false">E-mail</string>
+    <string name="senha" translatable="false">Senha</string>
+    <string name="hint_senha" translatable="false">Senha</string>
+    <string name="confirma_senha" translatable="false">Confirmar senha</string>
+    <string name="hint_confirma_senha" translatable="false">Senha</string>
+    <string name="recuperar_senha" translatable="false">Esqueci a senha</string>
+    <string name="button_entrar" translatable="false">Entrar</string>
+    <string name="nome" translatable="false">Nome</string>
+    <string name="hint_nome" translatable="false">Digite seu nome</string>
+    <string name="sobrenome" translatable="false">Sobrenome</string>
+    <string name="hint_sobrenome" translatable="false">Digite seu sobrenome</string>
+    <string name="button_cadastrar" translatable="false">Cadastrar</string>
+    <string name="button_alterar" translatable="false">Alterar</string>
+    <string name="button_cancelar" translatable="false">Cancelar</string>
+    <string name="button_cadastrese" translatable="false">Cadastre-se</string>
+    <string name="button_recuperar" translatable="false">Recuperar</string>
+    <string name="button_voltar" translatable="false">Voltar</string>
+    <string name="recuperar" translatable="false">Esqueci a senha</string>
+    <string name="open_drawer" translatable="false">Abrir</string>
+    <string name="close_drawer" translatable="false">Fechar</string>
+    <string name="nav_menu_config">Condigurações</string>
+    <string name="nav_menu_logout">Sair</string>
+    <string name="button_next" translatable="false">></string>
+    <string name="question_text" translatable="false">Qual caminho irá percorrer?</string>
+    <string name="question_i">Direita?</string>
+    <string name="question_ii">Esquerda?</string>
+</resources>
